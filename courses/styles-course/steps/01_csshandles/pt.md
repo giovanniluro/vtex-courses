@@ -185,7 +185,7 @@ De acordo com a descrição dos CSS _Handles_ e com a recipe customizações de 
    }
    ```
 
-   Terminado este passo, você teve ter algo similar a:
+   Terminado este passo, você deve ter algo similar a:
 
    ![image](https://user-images.githubusercontent.com/19495917/90165764-8d4d8e80-dd6f-11ea-92f6-cadce9318dff.png)
 
